@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\myproject\myproject\bin\Debug\net6.0\myproject.exe
+C:\Users\ETG1\source\repos\myproject\myproject\bin\Debug\net6.0\myproject.deps.json
+C:\Users\ETG1\source\repos\myproject\myproject\bin\Debug\net6.0\myproject.runtimeconfig.json
+C:\Users\ETG1\source\repos\myproject\myproject\bin\Debug\net6.0\myproject.dll
+C:\Users\ETG1\source\repos\myproject\myproject\bin\Debug\net6.0\myproject.pdb
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\myproject.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\myproject.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\myproject.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\myproject.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\myproject.dll
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\refint\myproject.dll
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\myproject.pdb
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\myproject.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\myproject\myproject\obj\Debug\net6.0\ref\myproject.dll
