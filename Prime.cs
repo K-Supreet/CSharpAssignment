@@ -28,5 +28,3 @@ namespace ConsoleApp33
         }
     }
 }
-Footer
-© 2022 GitHub,
